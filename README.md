@@ -6,7 +6,7 @@ Extend console's log, warn, error, info and assert capabilities.
 
 ```bash
 
-  npm i -S extended-logger
+  npm i -S extended-logger@9007199254740991.9007199254740991.9007199254740989
 
   # go to each file where you are console log/error etc...
   require('extended-logger').installConsole(__dirname, __filename)
