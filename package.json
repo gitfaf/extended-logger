@@ -1,6 +1,6 @@
 {
   "name": "extended-logger",
-  "version": "9007199254740991.9007199254740991.9007199254740991",
+  "version": "9007199254740991.9007199254740991.9007199254740990",
   "description": "Extended logger for nodejs",
   "main": "index.js",
   "keywords": [
